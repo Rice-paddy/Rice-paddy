@@ -7,7 +7,7 @@
 
 ### About Me:
 
-🎓 I'm a final-year university student with a passion for software development and an insatiable curiosity for all things code. Armed with a keyboard and a never-ending appetite for learning, I'm here to turn ideas into reality and leave a trail of delightful code in my wake!
+🎓Armed with a keyboard and a never-ending appetite for learning, I'm here to turn ideas into reality and leave a trail of delightful code in my wake!
 
 💡 Let me introduce you to some of my exciting projects:
 
